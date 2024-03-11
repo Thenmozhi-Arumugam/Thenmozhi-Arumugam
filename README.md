@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 This is Thenmozhi Arumugam. I'm a Mainframe Developer and an aspiring data scientist with a passion for solving problems with data. I have a strong academic background in mathematics and a practical experience in data analysis and reporting.
+😄 This is Thenmozhi Arumugam. I'm a Mainframe Developer and an aspiring data scientist with a passion for solving problems with data. I have 7+ years of experience in Software Development and Design.
 
 🌱 I'm currently studying at HyperionDev data science bootcamp, where I'm learning advanced skills in data analysis, such as statistical programming, machine learning, and data visualization.
 
