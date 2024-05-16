@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-😄 This is Thenmozhi Arumugam. I'm a Mainframe Developer and an aspiring data scientist with a passion for solving problems with data. I have 7+ years of experience in Software Development and Design.
+😄 This is Thenmozhi Arumugam. I'm a Mainframe Developer and an aspiring data scientist with a passion for solving problems with data. I have 8 years of experience in Software Development and Design.
 
-🌱 I'm currently studying at HyperionDev data science bootcamp, where I'm learning advanced skills in data analysis, such as statistical programming, machine learning, and data visualization.
+🌱 I have completed Data science bootcamp at HyperionDev, where I learnt advanced skills in data analysis, such as statistical programming, machine learning, and data visualization. I have also completed Python course from Code First Girls.
 
 💬 Skills and Tools:
 
-• Excel • Python • SQL • NLP • Machine Learning • COBOL • CICS
+• Excel • Python • SQL • NLP • Machine Learning • COBOL • DB2 • CICS • JCL
 
 📫Contact Me
 
